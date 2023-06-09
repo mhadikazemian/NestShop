@@ -1,2 +1,2 @@
 # NestCommerce
-NestCommerce is a microservices-based e-commerce platform built with NestJS, PostgreSQL, Redis, and Azure Kubernetes Services
+NestCommerce is a modern e-commerce platform that leverages the power of microservices, Kubernetes, and cloud technologies to provide a scalable, robust, and highly available solution for online businesses. Built with NestJS, PostgreSQL, Redis, and Azure Kubernetes Services, NestCommerce offers a flexible and modular architecture that enables developers to easily add new features and services as their business grows. With its RESTful APIs, advanced caching, and container orchestration capabilities, NestCommerce is the perfect choice for businesses that demand high performance, reliability, and security.
